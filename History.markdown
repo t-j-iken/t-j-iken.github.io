@@ -1,4 +1,4 @@
-## HEAD Site Updates
+## Site Updates
 
 Archive of all changes and development to Jekyll site.
 

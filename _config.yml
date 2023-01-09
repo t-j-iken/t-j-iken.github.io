@@ -1,9 +1,8 @@
 title: TYLER IKEN
 author: Tyler Iken
-  name: t-j-iken
-  email: tyleriken@proton.me
 description: > # this means to ignore newlines until "show_excerpts:"
-  Personal and professional website to host my research and projects.
+  Personal and professional website to host my research and projects. Please contact me through
+  my email at tyleriken@proton.me.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
